@@ -1,0 +1,13 @@
+{
+	"name": "kill_nest_get_money",
+	"version": "0.8.0",
+	"factorio_version": "1.1",
+	"title": "Kill a nest get money (extension for EasyAPI)",
+	"author": "ZwerOxotnik",
+	"contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117",
+	"homepage": "",
+	"description": "See locale/*",
+	"dependencies": [
+		"EasyAPI >= 0.5.5"
+	]
+}
