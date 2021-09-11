@@ -6,7 +6,7 @@
 	"author": "ZwerOxotnik",
 	"contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117",
 	"homepage": "",
-	"description": "See locale/*",
+	"description": "Gives N money to your team when you have killed the nests.",
 	"dependencies": [
 		"EasyAPI >= 0.5.5"
 	]
