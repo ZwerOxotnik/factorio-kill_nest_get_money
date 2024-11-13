@@ -63,7 +63,7 @@ Gives N money to your team when you have killed the nests.
 If you want to download from this source, then use commands below (requires [git][git]).
 
 ```bash
-git clone --recurse-submodules -j8 https://github.com/ZwerOxotnik/factorio-kill_nest_get_money
+git clone --recurse-submodules -j8 https://github.com/ZwerOxotnik/factorio-kill_nest_get_money kill_nest_get_money
 cd kill_nest_get_money
 ```
 
@@ -79,7 +79,7 @@ Alternatively, join the [Discord group][Discord] and send a message there.
 License
 -------
 
-Copyright (c) 2021 ZwerOxotnik <zweroxotnik@gmail.com>
+Copyright (c) 2021, 2024 ZwerOxotnik <zweroxotnik@gmail.com>
 
 Licensed under the MIT licence.
 
